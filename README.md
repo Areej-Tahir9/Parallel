@@ -1,2 +1,2 @@
-# Parallel_Distributed computing
+# Parallel_Distributed Computing
 
