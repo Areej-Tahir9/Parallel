@@ -32,3 +32,13 @@ This repository is a foundational guide to key concepts in parallelism and synch
 - Necessary Conditions for Deadlocks  
 - Deadlock Prevention and Detection  
 
+
+📚 Learning Objectives
+Understand the basics of threads and their advantages.
+Explore various synchronization techniques for process safety.
+Learn about semaphores, locks, and their real-world applications.
+Grasp the concept of deadlocks and how to prevent or resolve them.
+
+
+🌟 Acknowledgments
+Special thanks to the contributors and the open-source community for their valuable tools and insights. Let's build scalable solutions together!
